@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Data & models
+data/processed
+data/raw
+checkpoints/
+runs/
+
+# Plots & results
+other/
+*.json
+
+# PyCharm
+.idea/
+
+# Mac
+.DS_Store
